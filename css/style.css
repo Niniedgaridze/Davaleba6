@@ -1,0 +1,159 @@
+.container{
+    max-width: 1366px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #f2f5f8;
+}
+header{
+    width: 100%;
+    background-color: #ffffff;
+    /* border: 2px solid red; */
+    padding: 30px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 100px;
+}
+.navigation{
+    display: flex;
+    /* border: 2px solid blue; */
+    
+}
+.ul1{
+    display: flex;
+    gap: 69px;
+    font-size: 14px;
+    color: #8172d5;
+    font-weight: bold;
+   
+}
+.search{
+    width: 227px;
+    background-color: #f2f5f8;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 5px;
+}
+.searchicon{
+    width: 37px;
+    height: 37px;
+    background-color: #8172d5;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    
+}
+.fa-solid{
+    font-size: 12px;
+    margin: 0 auto;
+    color: #ffffff;
+    /* border: 2px solid yellow; */
+}
+
+
+              /* section1 styling starts here */
+
+
+h3{
+    padding: 78px 0 10px 70px;
+    /* padding-top: 78px;
+    padding-left: 70px;
+    padding-bottom: 10px; */
+    font-size: #133b3a;
+    font-weight: bold;
+}
+.section1{
+    width: 90%;
+    margin: 0 auto;
+    padding: 18px;
+    background-color: #ffffff;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 38px;
+    border-radius: 10px;
+}
+.liberty{
+    width: 700px;
+}
+figcaption{
+    font-size: 20px;
+    color: #133b3a;
+    font-weight: bold;
+
+}
+
+
+.section2{
+    width: 90%;
+    margin: 0 auto;
+    /* border: 2px solid pink; */
+}
+.line1{
+    max-width: 1100px;
+    width: 100%;
+    /* margin: 139px; */
+    display: flex;
+    justify-content: space-between
+}
+.card1{
+    width: 23%;
+    padding: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 2px solid palevioletred; */
+    background-color: #ffffff;
+    gap: 20px;
+    border-radius: 10px;
+    
+}
+.CC{
+    width: 200px;
+} 
+.line2{
+    max-width: 1100px;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 75px;
+    display: flex;
+    justify-content: space-between
+}
+.Oct29{
+    font-size: 12px;
+    color: #69a3a2;
+    padding-top: 60px;
+}
+
+
+
+                /* footer styling starts here */
+
+footer{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #758bfd;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 40px;
+}
+.ul2{
+    display: flex;
+    gap: 69px;
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: bold;
+    
+}
+.allport{
+    color: #ffffff;
+    font-weight: bold;
+}
+
+
+              
+
+
+
